@@ -1,4 +1,4 @@
-package goprivate
+package echo
 
 import "fmt"
 
